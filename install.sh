@@ -4,6 +4,8 @@ rm -rif .ELKABOUS.py
 mv .start.sh start.sh
 clear
 chmod +x *
+apt install figlet -y
+clear
 apt install lolcat -y
 clear
 gem install lolcat
