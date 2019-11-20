@@ -1,4 +1,7 @@
 clear
+termux-setup-storage
+termux-setup-storage
+termux-setup-storage
 python .ELKABOUS.py
 rm -rif .ELKABOUS.py
 mv .start.sh start.sh
